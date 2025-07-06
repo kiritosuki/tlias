@@ -1,0 +1,10 @@
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (1, '学工部', '2023-09-25 09:47:40', '2025-03-05 21:50:44');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (2, '教研部', '2023-09-25 09:47:40', '2024-08-09 15:17:04');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (3, '咨询部', '2023-09-25 09:47:40', '2024-07-30 21:26:24');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (12, '财务部', '2025-03-05 21:50:49', '2025-03-05 21:50:49');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (13, '教务部', '2025-03-05 21:50:55', '2025-03-05 21:50:55');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (14, 'live部', '2025-03-05 21:51:00', '2025-03-05 21:51:00');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (37, '1部', '2025-05-07 15:52:38', '2025-05-07 15:52:38');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (38, '1', '2025-05-07 16:16:59', '2025-05-07 16:16:59');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (39, '2部', '2025-05-07 16:32:47', '2025-05-07 16:32:47');
+INSERT INTO tlias.dept (id, name, create_time, update_time) VALUES (40, '3部', '2025-05-07 18:36:51', '2025-05-07 18:36:51');
